@@ -7,9 +7,9 @@ Step 2: Install SIMBA:
 On Mac:
 Rscript -e "install.packages('SIMBA_1.0_macosx.tgz', repos = NULL)"
 On Windows: 
-Rscript -e "install.packages('SIMBA_1.0_win.zip’, repos = NULL)"
+Rscript -e "install.packages('SIMBA_1.0_win.zip', repos = NULL)"
 On Linux:
-R CMD INSTALL SIMBA_1.0_linux.tar.gz
+Rscript -e "install.packages('SIMBA_1.0_R_x86_64-pc-linux-gnu.tar.gz', repos = NULL)"
 Step 3: Open R and run the following code:
 
 # The entire process will run for approximately 20 minutes on a Core i7 desktop with Ubuntu 12.04. 
