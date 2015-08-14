@@ -7,7 +7,7 @@ Step 2: Install SIMBA:
 On Mac:
 Rscript -e "install.packages('SIMBA_1.0_macosx.tgz', repos = NULL)"
 On Windows: 
-Rscript -e "install.packages('SIMBA_1.0_win.zip', repos = NULL)"
+Rscript -e "install.packages('SIMBA.zip', repos = NULL)"
 On Linux:
 Rscript -e "install.packages('SIMBA_1.0_R_x86_64-pc-linux-gnu.tar.gz', repos = NULL)"
 Step 3: Open R and run the following code:
